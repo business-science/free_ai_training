@@ -2,9 +2,8 @@
 # AI CRM DEALS ANALYSIS
 # PANDAS AGENT: CHAT WITH YOUR DATA
 
-# INTERESTED IN AI FOR DATA SCIENCE?
-# AI COURSE LAUNCH ON MAY 30TH:
-#  >>> REGISTER HERE: https://learn.business-science.io/python-generative-ai-apps
+# AI COURSE LAUNCH ON THURSDAY, MAY 30TH AT 2PM EST:
+#  👉 REGISTER HERE: https://learn.business-science.io/python-generative-ai-apps
 
 # LIBRARIES
 
