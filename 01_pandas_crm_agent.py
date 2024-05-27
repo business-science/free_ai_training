@@ -5,6 +5,10 @@
 # AI COURSE LAUNCH ON THURSDAY, MAY 30TH AT 2PM EST:
 #  👉 REGISTER HERE: https://learn.business-science.io/python-generative-ai-apps
 
+# GOALS:
+# 1. SHOW HOW AI CAN BE USED FOR DATA SCIENCE
+# 2. SHOW SOME OF THE LOW-LEVEL DATA SCIENCE TASKS THAT CAN BE AUTOMATED WITH AI
+
 # LIBRARIES
 
 from langchain.agents.agent_types import AgentType
